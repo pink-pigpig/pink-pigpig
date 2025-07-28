@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-![Wellcome](.\wellcome.gif)
+![Wellcome](./img/Wellcome.gif)
+你可以点击此处进入我的博客。
+
+[猪博客](https://pink-pigpig.github.io/pingpinghome/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pink-pigpig&theme=dark&show_icons=true)
 <!--
 **pink-pigpig/pink-pigpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
